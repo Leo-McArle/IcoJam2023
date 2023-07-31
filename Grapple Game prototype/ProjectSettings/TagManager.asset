@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - HookPoint
   - Hazard
+  - MusicManager
   layers:
   - Default
   - TransparentFX

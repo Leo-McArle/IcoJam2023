@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9af3f36fff5921047a28c1d5b8f348a3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Chalktastic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d1207bec2af61ff408ac1712b1ec186c, type: 3}
+  - {fileID: 12800000, guid: 102bb58e03c09ab46b0fce8c295f1af9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
